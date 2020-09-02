@@ -1,0 +1,24 @@
+h1 {
+    font-size: 60px;
+    color: #00AFA6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+  }
+
+footer {
+    color: lightgray;
+    position:fixed; 
+    bottom: 0; 
+    background-color:#666666;
+    border-top-style: solid;
+    border-top-color: #00AFA6;
+}
+
+img {
+    height: 350px;
+    width: 350px;
+}
+
+article {
+    background-color: white;
+}
